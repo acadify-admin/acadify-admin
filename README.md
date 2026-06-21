@@ -7,10 +7,10 @@
 <div align="center">
   <p><b>Distributed engineering partner of 28 senior developers building high-reliability AI products, scalable SaaS platforms, and secure cloud infrastructure.</b></p>
   <p>
-    <a href="https://acadifysolution.com">Website</a> &nbsp;•&nbsp; 
-    <a href="https://ai-testing.acadifysolution.com">AI Testing Lab</a> &nbsp;•&nbsp; 
-    <a href="https://clutch.co/profile/acadify-solution">Verified Clutch Reviews</a> &nbsp;•&nbsp; 
-    <a href="https://calendly.com/acadify-online/30min">Book a Call</a>
+    <a href="https://acadifysolution.com"><img src="https://img.shields.io/badge/Website-acadifysolution.com-cf6b48?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"></a> &nbsp;
+    <a href="https://ai-testing.acadifysolution.com"><img src="https://img.shields.io/badge/AI_Testing_Lab-Sandbox-1e293b?style=for-the-badge&logo=flask&logoColor=white" alt="AI Testing Lab"></a> &nbsp;
+    <a href="https://clutch.co/profile/acadify-solution"><img src="https://img.shields.io/badge/Clutch-Reviews_5.0-1e293b?style=for-the-badge&logo=clutch&logoColor=white" alt="Verified Clutch Reviews"></a> &nbsp;
+    <a href="https://calendly.com/acadify-online/30min"><img src="https://img.shields.io/badge/Calendly-Book_a_Call-cf6b48?style=for-the-badge&logo=calendly&logoColor=white" alt="Book a Call"></a>
   </p>
   <p>
     <a href="https://github.com/acadify-solution"><img src="https://img.shields.io/badge/GitHub-Technology_Partner-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Technology Partner"></a>
@@ -34,30 +34,26 @@ To maintain the highest tier of engineering discipline, all Acadify Solution pro
 
 ---
 
-## 🛠️ Core Technology Stack
+## 💼 Core Services
 
 <table width="100%" border="0" cellpadding="10" cellspacing="0">
   <tr>
     <td width="33%" valign="top" style="border-right: 1px solid #2d3748; padding-right: 15px;">
-      <h3>🤖 AI &amp; Data Systems</h3>
-      <p><b>Fine-tuning &amp; Training</b><br><code>PyTorch</code> &nbsp;•&nbsp; <code>QLoRA</code> &nbsp;•&nbsp; <code>PEFT</code> &nbsp;•&nbsp; <code>HuggingFace</code></p>
-      <p><b>Vector Search &amp; RAG</b><br><code>Pinecone</code> &nbsp;•&nbsp; <code>Qdrant</code> &nbsp;•&nbsp; <code>pgvector</code> &nbsp;•&nbsp; <code>Redis</code></p>
-      <p><b>Agent Orchestration</b><br><code>CrewAI</code> &nbsp;•&nbsp; <code>LangChain</code> &nbsp;•&nbsp; <code>LlamaIndex</code></p>
-      <p><b>Model Evaluation</b><br><code>Evals SDK</code> &nbsp;•&nbsp; <code>Hallucination Scoring</code></p>
+      <h3>🤖 Artificial Intelligence</h3>
+      <p><b>AI Development</b><br>Custom LLMs &amp; RAG agents.<br><code>PyTorch</code> &nbsp;•&nbsp; <code>LangChain</code> &nbsp;•&nbsp; <code>LlamaIndex</code></p>
+      <p><b>Enterprise AI Deployment</b><br>Production LLM integration.<br><code>vLLM</code> &nbsp;•&nbsp; <code>FastAPI</code> &nbsp;•&nbsp; <code>Pinecone</code></p>
+      <p><b>AI Testing &amp; Evaluation</b><br>Model QA &amp; safety validation.<br><code>Evals SDK</code> &nbsp;•&nbsp; <code>Playwright</code></p>
     </td>
     <td width="33%" valign="top" style="border-right: 1px solid #2d3748; padding-left: 15px; padding-right: 15px;">
-      <h3>☁️ Cloud &amp; Infrastructure</h3>
-      <p><b>Orchestration &amp; IaC</b><br><code>Terraform</code> &nbsp;•&nbsp; <code>Kubernetes (GKE/EKS)</code> &nbsp;•&nbsp; <code>Docker</code></p>
-      <p><b>Serverless &amp; Microservices</b><br><code>AWS Lambda</code> &nbsp;•&nbsp; <code>EventBridge</code> &nbsp;•&nbsp; <code>SQS/SNS</code></p>
-      <p><b>Zero-Trust Network Topologies</b><br><code>Cloudflare Access</code> &nbsp;•&nbsp; <code>Tailscale Secure Mesh</code></p>
-      <p><b>Multi-Cloud Management</b><br><code>AWS</code> &nbsp;•&nbsp; <code>Google Cloud</code> &nbsp;•&nbsp; <code>Microsoft Azure</code></p>
+      <h3>💻 Product &amp; Platform</h3>
+      <p><b>Product Engineering</b><br>Scalable web &amp; mobile apps.<br><code>Next.js</code> &nbsp;•&nbsp; <code>TypeScript</code> &nbsp;•&nbsp; <code>React</code> &nbsp;•&nbsp; <code>Go</code></p>
+      <p><b>MVP Development</b><br>Fast-to-market prototypes.<br><code>Node.js</code> &nbsp;•&nbsp; <code>TailwindCSS</code> &nbsp;•&nbsp; <code>Stripe</code></p>
+      <p><b>Engineering Services</b><br>Scale your engineering and product delivery.<br><code>CI/CD Pipelines</code> &nbsp;•&nbsp; <code>Code Quality</code></p>
     </td>
     <td width="33%" valign="top" style="padding-left: 15px;">
-      <h3>💻 Web &amp; Backend Engineering</h3>
-      <p><b>Runtime &amp; APIs</b><br><code>FastAPI (Python)</code> &nbsp;•&nbsp; <code>Node.js (TypeScript)</code></p>
-      <p><b>Web &amp; User Experience</b><br><code>Next.js</code> &nbsp;•&nbsp; <code>React</code> &nbsp;•&nbsp; <code>TailwindCSS</code></p>
-      <p><b>Core Languages</b><br><code>Python</code> &nbsp;•&nbsp; <code>TypeScript</code> &nbsp;•&nbsp; <code>Go</code> &nbsp;•&nbsp; <code>Rust</code></p>
-      <p><b>Verification &amp; Security</b><br><code>Playwright (E2E)</code> &nbsp;•&nbsp; <code>HIPAA/PCI Proxies</code></p>
+      <h3>☁️ Infrastructure &amp; Scale</h3>
+      <p><b>Cloud &amp; DevOps</b><br>AWS, Azure &amp; GCP automation.<br><code>Terraform</code> &nbsp;•&nbsp; <code>Kubernetes</code> &nbsp;•&nbsp; <code>Docker</code></p>
+      <p><b>Dedicated Teams</b><br>Senior engineers for scaling.<br><code>Senior Staff Pods</code> &nbsp;•&nbsp; <code>SLA Driven</code></p>
     </td>
   </tr>
 </table>
