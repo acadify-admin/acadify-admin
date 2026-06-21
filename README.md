@@ -13,26 +13,6 @@ A remote engineering partner of 28 senior developers building high-reliability A
 
 ---
 
-### 🖥️ Sandbox Infrastructure Status
-This dashboard monitors the status of our reference environments and API gateways:
-
-| System | Endpoint | Health | Version | Target Uptime |
-| :--- | :--- | :---: | :---: | :---: |
-| **LLM Gateway Proxy** | `gateway.acadifysolution.com` | `ONLINE 🟢` | `v2.4` | `99.99%` |
-| **RAG Sync Broker** | `rag-broker.acadifysolution.com` | `STABLE 🟢` | `v1.9` | `99.95%` |
-| **PII Shield Proxy** | `security.acadifysolution.com` | `SECURE 🛡️` | `v3.0` | `100.00%` |
-| **Evals Orchestrator** | `evals.acadifysolution.com` | `PASSING 🟢` | `v1.2` | `99.90%` |
-
----
-
-### 📊 Core Engineering Metrics
-*   ⚡ **API Latency:** 24ms average across LLM gateway routing.
-*   📉 **Cloud FinOps:** 42% average reduction in compute spend for active projects.
-*   👥 **Team Scale:** 28 remote software engineers globally distributed.
-*   🛡️ **Compliance:** SOC2 Type II, HIPAA, and GDPR compliant configurations.
-
----
-
 ### 🛠️ Core Technology Stack
 
 | AI & Data Systems | Cloud & Infrastructure | Frameworks & Languages |
