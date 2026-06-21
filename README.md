@@ -5,13 +5,7 @@
 <br>
 
 <div align="center">
-  <p><b>Distributed engineering partner of 28 senior developers building high-reliability AI products, scalable SaaS platforms, and secure cloud infrastructure.</b></p>
-  <p>
-    <a href="https://acadifysolution.com"><img src="https://img.shields.io/badge/Website-acadifysolution.com-cf6b48?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"></a> &nbsp;
-    <a href="https://ai-testing.acadifysolution.com"><img src="https://img.shields.io/badge/AI_Testing_Lab-Sandbox-1e293b?style=for-the-badge&logo=flask&logoColor=white" alt="AI Testing Lab"></a> &nbsp;
-    <a href="https://clutch.co/profile/acadify-solution"><img src="https://img.shields.io/badge/Clutch-Reviews_5.0-1e293b?style=for-the-badge&logo=clutch&logoColor=white" alt="Verified Clutch Reviews"></a> &nbsp;
-    <a href="https://calendly.com/acadify-online/30min"><img src="https://img.shields.io/badge/Calendly-Book_a_Call-cf6b48?style=for-the-badge&logo=calendly&logoColor=white" alt="Book a Call"></a>
-  </p>
+  <p><b>Distributed engineering partner of 28 senior developers building high-reliability AI products, scalable SaaS platforms, and secure cloud infrastructure. We function as an integrated technical department for venture-backed startups and enterprises, delivering production-grade machine learning pipelines, HIPAA-compliant database solutions, and automated zero-trust cloud network architectures. By maintaining a disciplined software development lifecycle, we enforce code-level quality standards, rigorous E2E verification, and security-first compliance baselines.</b></p>
   <p>
     <a href="https://github.com/acadify-solution"><img src="https://img.shields.io/badge/GitHub-Technology_Partner-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Technology Partner"></a>
     <a href="https://acadifysolution.com/pages/partners/anthropic.html"><img src="https://img.shields.io/badge/Anthropic-Network_Partner-F4F4F0?style=for-the-badge&logo=anthropic&logoColor=191919" alt="Anthropic Network Partner"></a>
