@@ -95,12 +95,12 @@
     <text x="18" y="93" fill="#64748b" font-family="-apple-system, BlinkMacSystemFont, 'Inter', 'Segoe UI', sans-serif" font-size="11" font-weight="700" letter-spacing="1.5px">SYSTEMS LAB</text>
     
     <!-- Brand Title -->
-    <text x="0" y="145" fill="#ffffff" font-family="-apple-system, BlinkMacSystemFont, 'Inter', 'Segoe UI', sans-serif" font-size="42" font-weight="800" letter-spacing="-1px">Acadify Solution</text>
+    <text x="0" y="145" fill="#ffffff" font-family="-apple-system, BlinkMacSystemFont, 'Inter', 'Segoe UI', sans-serif" font-size="42" font-weight="800" letter-spacing="-1px">Acadify Admin</text>
     
     <!-- Subtitle -->
-    <text x="0" y="180" fill="#cf6b48" font-family="-apple-system, BlinkMacSystemFont, 'Inter', 'Segoe UI', sans-serif" font-size="15" font-weight="600" letter-spacing="2.5px">ENGINEERING PARTNER</text>
+    <text x="0" y="180" fill="#cf6b48" font-family="-apple-system, BlinkMacSystemFont, 'Inter', 'Segoe UI', sans-serif" font-size="15" font-weight="600" letter-spacing="2.5px">ORGANIZATION ADMIN</text>
     
     <!-- Human Copy Intro -->
-    <text x="0" y="210" fill="#94a3b8" font-family="-apple-system, BlinkMacSystemFont, 'Inter', 'Segoe UI', sans-serif" font-size="13" font-weight="400">High-Reliability AI Integration &amp; Product Engineering</text>
+    <text x="0" y="210" fill="#94a3b8" font-family="-apple-system, BlinkMacSystemFont, 'Inter', 'Segoe UI', sans-serif" font-size="13" font-weight="400">Core Infrastructure &amp; Systems Administration</text>
   </g>
 </svg>
