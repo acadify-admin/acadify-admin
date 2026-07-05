@@ -62,18 +62,18 @@ To maintain the highest tier of engineering discipline, all Acadify Solution pro
 
 ---
 
-## 🗺️ Open-Source Reference Architectures (21 Blueprints)
+## 🗺️ Open-Source Reference Architectures (25 Blueprints)
 We share our internal boilerplates, security configurations, and reference implementations to help engineering teams build secure and scalable systems faster.
 
 <details>
-<summary><b>📁 Tier 1: Team Culture & Standards (2 repos)</b></summary>
+<summary><b>📁 Tier 1: Team Culture & Standards (2 repos, 2 active 🟢)</b></summary>
 <br>
 
 *   **[`acadify-solution`](https://github.com/acadify-solution/acadify-solution)** — `Active 🟢`
     *   *Objective:* Central systems landing and public organization presence.
     *   *Core Stack:* `SVG Keyframes` &nbsp;•&nbsp; `GitHub Actions` &nbsp;•&nbsp; `Markdown`
     *   *Engineering Scope:* Dynamic isometric pipeline graphics, automated contribution graph generation, and profile telemetry layouts.
-*   **[`engineering-standards`](https://github.com/acadify-solution/engineering-standards)** — `Roadmap 🛠️`
+*   **[`engineering-standards`](https://github.com/acadify-solution/engineering-standards)** — `Active 🟢`
     *   *Objective:* Technical standards, coding practices, and peer review guidelines.
     *   *Core Stack:* `Markdown Lint` &nbsp;•&nbsp; `Git Hooks` &nbsp;•&nbsp; `Husky`
     *   *Engineering Scope:* Standard branch-protection models, pull-request requirements, automated style enforcement, and release notes checklists.
@@ -81,29 +81,33 @@ We share our internal boilerplates, security configurations, and reference imple
 </details>
 
 <details>
-<summary><b>🤖 Tier 2: AI & LLM Infrastructure (6 repos)</b></summary>
+<summary><b>🤖 Tier 2: AI & LLM Infrastructure (7 repos, 6 active 🟢)</b></summary>
 <br>
 
-*   **[`enterprise-rag-boilerplate`](https://github.com/acadify-solution/enterprise-rag-boilerplate)** — `Roadmap 🛠️`
+*   **[`enterprise-rag-boilerplate`](https://github.com/acadify-solution/enterprise-rag-boilerplate)** — `Active 🟢`
     *   *Objective:* Reference retrieval-augmented generation backend with metadata filtering and asynchronous ingestion.
     *   *Core Stack:* `FastAPI (Python)` &nbsp;•&nbsp; `Pinecone` &nbsp;•&nbsp; `Qdrant` &nbsp;•&nbsp; `pgvector` &nbsp;•&nbsp; `LangChain`
     *   *Engineering Scope:* Hierarchical text parsing, semantic chunking, multi-stage retrieval, parallel tokenized vector updates, and response verification.
-*   **[`autonomous-agent-swarm`](https://github.com/acadify-solution/autonomous-agent-swarm)** — `Roadmap 🛠️`
+*   **[`autonomous-agent-swarm`](https://github.com/acadify-solution/autonomous-agent-swarm)** — `Active 🟢`
     *   *Objective:* Event-driven framework for configuring and coordinating specialized worker agents.
     *   *Core Stack:* `CrewAI` &nbsp;•&nbsp; `LangChain` &nbsp;•&nbsp; `LlamaIndex` &nbsp;•&nbsp; `Python`
     *   *Engineering Scope:* Thread-safe agent state persistence, task routing queues, output sanitization, and structured worker evaluation pipelines.
-*   **[`llm-security-proxy`](https://github.com/acadify-solution/llm-security-proxy)** — `Roadmap 🛠️`
+*   **[`llm-security-proxy`](https://github.com/acadify-solution/llm-security-proxy)** — `Active 🟢`
     *   *Objective:* High-throughput proxy for intercepting and scanning inputs/outputs sent to public foundation models.
     *   *Core Stack:* `FastAPI` &nbsp;•&nbsp; `Redis` &nbsp;•&nbsp; `Regex PII Engine` &nbsp;•&nbsp; `Toxicity Classifiers`
     *   *Engineering Scope:* Token sanitization, pattern-based PII scrubbing, prompt-injection payload prevention, and secure transaction audit logging.
-*   **[`fine-tuning-pipeline`](https://github.com/acadify-solution/fine-tuning-pipeline)** — `Roadmap 🛠️`
+*   **[`fine-tuning-pipeline`](https://github.com/acadify-solution/fine-tuning-pipeline)** — `Active 🟢`
     *   *Objective:* Scalable framework for tuning open-source foundation models on proprietary enterprise data.
     *   *Core Stack:* `PyTorch` &nbsp;•&nbsp; `HuggingFace PEFT` &nbsp;•&nbsp; `QLoRA` &nbsp;•&nbsp; `DeepSpeed`
     *   *Engineering Scope:* Dataset preprocessing, sequence tokenization, low-rank adapter training, gradient checkpointing, and evaluation comparisons.
-*   **[`ai-evals-framework`](https://github.com/acadify-solution/ai-evals-framework)** — `Roadmap 🛠️`
+*   **[`ai-evals-framework`](https://github.com/acadify-solution/ai-evals-framework)** — `Active 🟢`
     *   *Objective:* Custom evaluation suites for automated quality control on generative outputs.
     *   *Core Stack:* `Evals SDK` &nbsp;•&nbsp; `Python` &nbsp;•&nbsp; `Playwright` &nbsp;•&nbsp; `Hallucination Scoring`
     *   *Engineering Scope:* Metric testing, semantic similarity scoring, factual consistency checks, and integration with CI build pipelines.
+*   **[`asr-feedback`](https://github.com/acadify-solution/asr-feedback)** — `Active 🟢`
+    *   *Objective:* Enterprise-grade platform for structured AI Response Quality evaluation, multi-dimensional feedback, and quality intelligence.
+    *   *Core Stack:* `JSON Schema` &nbsp;•&nbsp; `Python` &nbsp;•&nbsp; `FastAPI` &nbsp;•&nbsp; `Markdown`
+    *   *Engineering Scope:* 4-pillar evaluation methodology (Good/Bad/Learned/Remember), schema validation, real-time ingestion pipelines, and structured quality metrics.
 *   **[`vector-db-benchmark`](https://github.com/acadify-solution/vector-db-benchmark)** — `Roadmap 🛠️`
     *   *Objective:* Latency and recall profiling scripts for comparing vector databases under heavy workloads.
     *   *Core Stack:* `Python` &nbsp;•&nbsp; `pgvector` &nbsp;•&nbsp; `Qdrant` &nbsp;•&nbsp; `Pinecone` &nbsp;•&nbsp; `Milvus`
@@ -112,7 +116,7 @@ We share our internal boilerplates, security configurations, and reference imple
 </details>
 
 <details>
-<summary><b>☁️ Tier 3: Cloud & DevOps Automation (5 repos)</b></summary>
+<summary><b>☁️ Tier 3: Cloud & DevOps Automation (5 repos, 5 roadmap 🛠️)</b></summary>
 <br>
 
 *   **[`terraform-aws-ai-infrastructure`](https://github.com/acadify-solution/terraform-aws-ai-infrastructure)** — `Roadmap 🛠️`
@@ -139,9 +143,21 @@ We share our internal boilerplates, security configurations, and reference imple
 </details>
 
 <details>
-<summary><b>💼 Tier 4: Enterprise Solutions & MVPs (4 repos)</b></summary>
+<summary><b>💼 Tier 4: Enterprise Solutions & MVPs (7 repos, 3 active 🟢)</b></summary>
 <br>
 
+*   **[`aegis-mvp-launchpad`](https://github.com/acadify-solution/aegis-mvp-launchpad)** — `Active 🟢`
+    *   *Objective:* Enterprise-grade client portal and AI agent swarm scope estimator for elite MVP Development.
+    *   *Core Stack:* `FastAPI` &nbsp;•&nbsp; `React` &nbsp;•&nbsp; `TypeScript` &nbsp;•&nbsp; `SSE (Server-Sent Events)` &nbsp;•&nbsp; `Docker`
+    *   *Engineering Scope:* Asynchronous PM, Architect, and Financial analyst agent swarm simulator, SVG Gantt-style roadmap timeline generator, interactive budget planner, and live SSE event streams.
+*   **[`Impactbridge-CSR-Tool`](https://github.com/acadify-solution/Impactbridge-CSR-Tool)** — `Active 🟢`
+    *   *Objective:* Enterprise Corporate Social Responsibility (CSR) platform managing NGO-corporate partnerships, compliance reporting, and transaction tracing.
+    *   *Core Stack:* `Next.js 14` &nbsp;•&nbsp; `NestJS` &nbsp;•&nbsp; `Prisma` &nbsp;•&nbsp; `MySQL` &nbsp;•&nbsp; `TypeScript Monorepo`
+    *   *Engineering Scope:* Shared DTO contract packages (`api-contracts`), JWT auth gateway, dual admin/NGO/corporate dashboard, features-gated API requests, and automated PDF reporting pipelines.
+*   **[`Sales-Automation`](https://github.com/acadify-solution/Sales-Automation)** — `Active 🟢`
+    *   *Objective:* Automated B2B sales development outreach engine targeting US startups for white-label engineering partnerships.
+    *   *Core Stack:* `Claude 3.5 Sonnet` &nbsp;•&nbsp; `HubSpot CRM` &nbsp;•&nbsp; `Gmail SMTP` &nbsp;•&nbsp; `LinkedIn API` &nbsp;•&nbsp; `Facebook Graph API` &nbsp;•&nbsp; `Hunter.io` &nbsp;•&nbsp; `Python`
+    *   *Engineering Scope:* Multi-source lead scraper (HackerNews, ProductHunt, YCombinator), AI-personalized email content generator, multi-touch drip follow-up scheduler, HubSpot contact synchronization, and social media content planner.
 *   **[`nextjs-saas-starter-kit`](https://github.com/acadify-solution/nextjs-saas-starter-kit)** — `Roadmap 🛠️`
     *   *Objective:* Optimized starter template for SaaS web applications with multi-tenant support.
     *   *Core Stack:* `Next.js` &nbsp;•&nbsp; `React` &nbsp;•&nbsp; `TypeScript` &nbsp;•&nbsp; `NextAuth` &nbsp;•&nbsp; `Stripe`
@@ -162,7 +178,7 @@ We share our internal boilerplates, security configurations, and reference imple
 </details>
 
 <details>
-<summary><b>🛡️ Tier 5: Security & Tooling (4 repos)</b></summary>
+<summary><b>🛡️ Tier 5: Security & Tooling (4 repos, 4 roadmap 🛠️)</b></summary>
 <br>
 
 *   **[`soc2-compliance-scripts`](https://github.com/acadify-solution/soc2-compliance-scripts)** — `Roadmap 🛠️`
@@ -219,6 +235,16 @@ Whether you want to build and scale a custom AI system, launch an enterprise-gra
     </td>
   </tr>
 </table>
+
+<br>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/acadify-solution/acadify-solution/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/acadify-solution/acadify-solution/output/github-contribution-grid-snake.svg">
+    <img alt="Acadify Solution Contribution Snake" src="https://raw.githubusercontent.com/acadify-solution/acadify-solution/output/github-contribution-grid-snake.svg" width="60%">
+  </picture>
+</div>
 
 <br>
 
