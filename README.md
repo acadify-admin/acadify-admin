@@ -24,7 +24,7 @@ This profile manages the core workflows and compliance baselines across the orga
 - 🚀 **DevOps & CI/CD Pipelines:** Governing global GitHub Actions, artifact registries, and automated vulnerability scanning.
 - 🤖 **Infrastructure & Compliance:** Orchestrating model gateways, secure PII-masking proxies, and SOC2/HIPAA audit policies.
 
-*All active development projects, libraries, and reference architectures are consolidated under the official organization profile at **[github.com/acadify-solution](https://github.com/acadify-solution)**.*
+*All active development projects, libraries, and reference architectures are consolidated under the official organization profile at **[github.com/acadifysolution](https://github.com/acadifysolution)**.*
 
 ---
 
